@@ -5,7 +5,7 @@
 
 ---
 
-- 🌱 I am currently enrolled in Software Engineering at the University of Westminster
+- 🌱 I am currently enrolled in Software Engineering at the University of Westminster.
 
 - 👀 I’m interested in Coding and Problem Solving
 
@@ -13,8 +13,8 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/ramudimunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramudi munasinghe" height="30" width="40" /></a>
 </p>
 
