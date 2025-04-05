@@ -10,6 +10,9 @@
 - 👀 I’m interested in Coding and Problem Solving
 
 - 🚀 Pursuing a career in Coding
+  
+- 📫 Reach me: yrgamage28@gmail.com
+
 
 ---
 
