@@ -11,7 +11,7 @@
 
 - 🚀 Pursuing a career in Coding
   
-- 📫 Reach me: yrgamage28@gmail.com
+- 📫 Reach me: ramudimunasinghe@gmail.com
 
 
 ---
