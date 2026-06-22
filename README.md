@@ -1,5 +1,7 @@
 <h2 align="center">👋 Hi, I’m Ramudi Munasinghe</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramudi48&label=Profile%20views&color=1E3A8A&style=flat" alt="" /> </p>
+<p align="center">
+ <img width="210" height="210" src="https://github.com/user-attachments/assets/4d645ee7-6f9e-4aac-9abc-f240123f1fa5" alt="Git banner" />
+</p>
 
 
 
@@ -25,7 +27,7 @@
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
-<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=react,java,spring,html,css,js,nodejs,expressjs,mysql,flutter,dart,mongodb,git,py,php,figma,postman&theme=dark&perline=9"/</a> 
+<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=selenium,maven,java,react,spring,html,css,js,nodejs,expressjs,mysql,flutter,dart,mongodb,git,py,php,figma,postman&theme=dark&perline=9"/</a> 
 </p>
 
 ---
