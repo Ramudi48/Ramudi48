@@ -19,6 +19,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ramudimunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramudi munasinghe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yoshani_gamage?igsh=MTJzNGlidWJrNHNxbA==" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yoshani Gamage" height="35" width="40" /></a>
+<a href="https://medium.com/yrgamage28"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg" height="35"/></a>
+<a href="https://stackoverflow.com/users/23335394/yoshani-gamage"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" height="35"/></a>
 </p>
 
 ---
