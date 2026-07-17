@@ -27,7 +27,7 @@
 
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
-<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=selenium,cucumber,maven,java,react,spring,html,css,js,nodejs,expressjs,mysql,flutter,dart,mongodb,git,py,php,figma,postman&theme=dark&perline=9"/</a> 
+<a href="https://skillicons.dev" target="_blank"><img class="item" src="https://skillicons.dev/icons?i=selenium,cucumber bdd,maven,java,react,spring,html,css,js,nodejs,expressjs,mysql,flutter,dart,mongodb,git,py,php,figma,postman&theme=dark&perline=9"/</a> 
 </p>
 
 ---
